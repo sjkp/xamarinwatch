@@ -1,0 +1,8 @@
+/Users/admin/Projects/watchappxamarin/watchappxamarin.watctwatchExtension/bin/iPhoneSimulator/Debug/watchappxamarinwatctwatchExtension.dll
+/Users/admin/Projects/watchappxamarin/watchappxamarin.watctwatchExtension/bin/iPhoneSimulator/Debug/watchappxamarinwatctwatchExtension.pdb
+/Users/admin/Projects/watchappxamarin/watchappxamarin.watctwatchExtension/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/admin/Projects/watchappxamarin/watchappxamarin.watctwatchExtension/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/watchappxamarin/watchappxamarin.watctwatchExtension/obj/iPhoneSimulator/Debug/optimized/
+/Users/admin/Projects/watchappxamarin/watchappxamarin.watctwatchExtension/obj/iPhoneSimulator/Debug/watchappxamarin.watctwatchExtension.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/watchappxamarin/watchappxamarin.watctwatchExtension/obj/iPhoneSimulator/Debug/watchappxamarinwatctwatchExtension.dll
+/Users/admin/Projects/watchappxamarin/watchappxamarin.watctwatchExtension/obj/iPhoneSimulator/Debug/watchappxamarinwatctwatchExtension.pdb
